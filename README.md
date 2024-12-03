@@ -14,4 +14,4 @@ The `nizvpn` package can be found on [GitHub](https://github.com/nizwar/nizvpn).
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/puff_vpn.git
+   git clone https://github.com/saadkhan960/PuffVPN.git
