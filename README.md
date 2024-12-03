@@ -1,16 +1,17 @@
-# puff_vpn
+# PuffVPN
 
-A new Flutter project.
+PuffVPN is a Flutter-based VPN application designed to provide secure and private internet browsing. It uses the `nizvpn` package, sourced from GitHub, for VPN functionality and the VPNGate API to fetch server lists. Built with a focus on simplicity, performance, and user experience, PuffVPN ensures a seamless connection to VPN servers.
 
-## Getting Started
+The `nizvpn` package can be found on [GitHub](https://github.com/nizwar/nizvpn).
 
-This project is a starting point for a Flutter application.
+## Features
+- Connect to VPN servers worldwide.
+- Fetch VPN server lists dynamically using the VPNGate API.
+- Secure internet browsing with OpenVPN.
+- Built using GetX for efficient state management.
+- Simple and intuitive user interface.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/puff_vpn.git
